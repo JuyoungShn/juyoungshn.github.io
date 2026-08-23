@@ -1,0 +1,33 @@
+---
+title: "LaTeX Test"
+date: 2026-08-23
+---
+
+# Groups
+
+Let $G$ be a group.
+
+A group $G$ is called cyclic if there exists $a\in G$ such that
+
+$$
+G=\langle a\rangle.
+$$
+
+# Analysis
+
+For $f\in L^1(\mathbb{R})$, define its Fourier transform by
+
+$$
+\widehat f(\xi)
+=
+\int_{\mathbb{R}}
+f(x)e^{-2\pi i x\xi}\,dx.
+$$
+
+We also have
+
+$$
+\left\|f\right\|_{L^2}^2
+=
+\int_{\mathbb{R}} |f(x)|^2\,dx.
+$$
