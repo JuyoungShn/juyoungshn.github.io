@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Juyoung Shin</title>
+<link>https://juyoungshn.github.io/</link>
+<atom:link href="https://juyoungshn.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>Mathematics, notes, and expository writing by Juyoung Shin</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sat, 22 Aug 2026 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>LaTeX Test</title>
+  <link>https://juyoungshn.github.io/posts/test/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="groups" class="level1">
+<h1>Groups</h1>
+<p>Let <img src="https://latex.codecogs.com/png.latex?G"> be a group.</p>
+<p>A group <img src="https://latex.codecogs.com/png.latex?G"> is called cyclic if there exists <img src="https://latex.codecogs.com/png.latex?a%5Cin%20G"> such that</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0AG=%5Clangle%20a%5Crangle.%0A"></p>
+</section>
+<section id="analysis" class="level1">
+<h1>Analysis</h1>
+<p>For <img src="https://latex.codecogs.com/png.latex?f%5Cin%20L%5E1(%5Cmathbb%7BR%7D)">, define its Fourier transform by</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A%5Cwidehat%20f(%5Cxi)%0A=%0A%5Cint_%7B%5Cmathbb%7BR%7D%7D%0Af(x)e%5E%7B-2%5Cpi%20i%20x%5Cxi%7D%5C,dx.%0A"></p>
+<p>We also have</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A%5Cleft%5C%7Cf%5Cright%5C%7C_%7BL%5E2%7D%5E2%0A=%0A%5Cint_%7B%5Cmathbb%7BR%7D%7D%20%7Cf(x)%7C%5E2%5C,dx.%0A"></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://juyoungshn.github.io/posts/test/</guid>
+  <pubDate>Sat, 22 Aug 2026 15:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
