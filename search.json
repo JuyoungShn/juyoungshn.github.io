@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "notes/index.html",
-    "href": "notes/index.html",
-    "title": "Notes",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This section contains mathematical notes and expository writing."
-  },
-  {
-    "objectID": "encyclopedia/index.html",
-    "href": "encyclopedia/index.html",
-    "title": "Encyclopedia",
-    "section": "",
-    "text": "This section contains topic-oriented mathematical reference material."
-  },
-  {
-    "objectID": "books/index.html",
-    "href": "books/index.html",
-    "title": "Books",
-    "section": "",
-    "text": "This section contains public material related to book-length mathematical projects."
-  },
-  {
-    "objectID": "mathematics.html",
-    "href": "mathematics.html",
-    "title": "Mathematics",
-    "section": "",
-    "text": "Mathematics\nMathematical notes and expository articles."
-  },
-  {
-    "objectID": "generated/index.html",
-    "href": "generated/index.html",
-    "title": "Generated",
-    "section": "",
-    "text": "This section contains public material generated or exported from the private Mathematics workspace.\nGenerated content is downstream publishing output and is not the canonical source."
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "This section contains research-related writing, problems, and projects."
+    "text": "About this blog"
   },
   {
     "objectID": "posts/test/index.html",
@@ -49,17 +14,17 @@
     "text": "Groups\nLet \\(G\\) be a group.\nA group \\(G\\) is called cyclic if there exists \\(a\\in G\\) such that\n\\[\nG=\\langle a\\rangle.\n\\]\n\n\nAnalysis\nFor \\(f\\in L^1(\\mathbb{R})\\), define its Fourier transform by\n\\[\n\\widehat f(\\xi)\n=\n\\int_{\\mathbb{R}}\nf(x)e^{-2\\pi i x\\xi}\\,dx.\n\\]\nWe also have\n\\[\n\\left\\|f\\right\\|_{L^2}^2\n=\n\\int_{\\mathbb{R}} |f(x)|^2\\,dx.\n\\]"
   },
   {
+    "objectID": "mathematics.html",
+    "href": "mathematics.html",
+    "title": "Mathematics",
+    "section": "",
+    "text": "Mathematics\nMathematical notes and expository articles."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Juyoung Shin",
     "section": "",
     "text": "LaTeX Test\n\n\n\n\n\n\n\n\nAug 23, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
   }
 ]

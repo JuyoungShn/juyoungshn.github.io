@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Juyoung Shin</title>
-<link>https://juyoungshn.github.io/</link>
-<atom:link href="https://juyoungshn.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://JuyoungShn.github.io/juyoungshn.github.io/</link>
+<atom:link href="https://JuyoungShn.github.io/juyoungshn.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Mathematics, notes, and expository writing by Juyoung Shin</description>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Sat, 22 Aug 2026 15:00:00 GMT</lastBuildDate>
 <item>
   <title>LaTeX Test</title>
-  <link>https://juyoungshn.github.io/posts/test/</link>
+  <link>https://JuyoungShn.github.io/juyoungshn.github.io/posts/test/</link>
   <description><![CDATA[ 
 
 
@@ -37,7 +37,7 @@
 </section>
 
  ]]></description>
-  <guid>https://juyoungshn.github.io/posts/test/</guid>
+  <guid>https://JuyoungShn.github.io/juyoungshn.github.io/posts/test/</guid>
   <pubDate>Sat, 22 Aug 2026 15:00:00 GMT</pubDate>
 </item>
 </channel>
